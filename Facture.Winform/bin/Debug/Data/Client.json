@@ -1,0 +1,114 @@
+[
+  {
+    "PhoneNumber": 334422113,
+    "Address": "denver",
+    "Products": [
+      {
+        "Reference": "FRUIT",
+        "Price": 61000.0,
+        "Priceone": 5000.0,
+        "quantity": 12,
+        "TVA": 0.2,
+        "date": "21/11/2021 00:00:00",
+        "Id": "res",
+        "Name": "banane"
+      },
+      {
+        "Reference": "patate",
+        "Price": 61000.0,
+        "Priceone": 5000.0,
+        "quantity": 12,
+        "TVA": 0.2,
+        "date": "21/11/2021 00:00:00",
+        "Id": "res",
+        "Name": "avocat"
+      }
+    ],
+    "Id": "arolle@email.com",
+    "Name": "Aguekeng"
+  },
+  {
+    "PhoneNumber": 123,
+    "Address": "AZe",
+    "Products": [
+      {
+        "Reference": "patate",
+        "Price": 24.2,
+        "Priceone": 2.0,
+        "quantity": 12,
+        "TVA": 0.1,
+        "date": "21/11/2021 00:00:00",
+        "Id": "res",
+        "Name": "avocat"
+      },
+      {
+        "Reference": "banane",
+        "Price": 24.2,
+        "Priceone": 2.0,
+        "quantity": 12,
+        "TVA": 0.1,
+        "date": "21/11/2021 00:00:00",
+        "Id": "res",
+        "Name": "legume"
+      }
+    ],
+    "Id": "su@su.com",
+    "Name": "Arolle"
+  },
+  {
+    "PhoneNumber": 123,
+    "Address": "AZe",
+    "Products": [
+      {
+        "Reference": "patate",
+        "Price": 24.2,
+        "Priceone": 2.0,
+        "quantity": 12,
+        "TVA": 0.1,
+        "date": "21/11/2021 00:00:00",
+        "Id": "res",
+        "Name": "avocat"
+      },
+      {
+        "Reference": "banane",
+        "Price": 24.2,
+        "Priceone": 2.0,
+        "quantity": 12,
+        "TVA": 0.1,
+        "date": "21/11/2021 00:00:00",
+        "Id": "res",
+        "Name": "legume"
+      }
+    ],
+    "Id": "su@sue.com",
+    "Name": "dubois"
+  },
+  {
+    "PhoneNumber": 556655442,
+    "Address": "TES",
+    "Products": [
+      {
+        "Reference": "REF",
+        "Price": 18001.2,
+        "Priceone": 12.0,
+        "quantity": 1500,
+        "TVA": 0.1,
+        "date": "22/11/2021 00:00:00",
+        "Id": "res",
+        "Name": "TEST"
+      },
+      {
+        "Reference": "FRUIT",
+        "Price": 1.80012E+07,
+        "Priceone": 12000.0,
+        "quantity": 1500,
+        "TVA": 0.1,
+        "date": "22/11/2021 00:00:00",
+        "Id": "res",
+        "Name": "SUIT"
+      }
+    ],
+    "Id": "arolle@arolle.email",
+    "Name": "AGUEKENG"
+  }
+]
